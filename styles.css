@@ -140,12 +140,6 @@ a {
   margin-top: 30px;
 }
 
-.hero-credit {
-  margin: 18px 0 0;
-  color: rgba(255, 255, 255, 0.68);
-  font-size: 0.86rem;
-}
-
 .button {
   display: inline-flex;
   align-items: center;
@@ -493,9 +487,17 @@ a {
     padding-bottom: 54px;
   }
 
-  .hero-actions,
-  .button {
+  .hero-actions {
     width: 100%;
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  .hero-actions .button {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: 0 8px;
+    font-size: 0.78rem;
   }
 
   .timeline-item {
