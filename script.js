@@ -1,5 +1,14 @@
 const credits = [
   {
+    outlet: "Billiards Days",
+    year: "2024",
+    role: "Interview / Photography",
+    title: "Fedor Gorst interview",
+    summary:
+      "Original interview and photos by K. MORI with 2024 Grand Slam winner Fedor Gorst, published by Billiards Days.",
+    url: "https://www.billiards-days.com/20241124-1/",
+  },
+  {
     outlet: "Web CUE'S",
     year: "2024",
     role: "Text & Photo",
@@ -70,15 +79,6 @@ const credits = [
     summary:
       "Japanese explainer credited to Mori, introducing the North American rating system to Japanese readers.",
     url: "https://www.billiards-days.com/2021/08/18/bd-%E5%8C%97%E7%B1%B3%E3%81%A7%E5%88%A9%E7%94%A8%E8%80%85%E5%A2%97%E5%8A%A0-%E3%83%97%E3%83%AD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E3%82%82%E6%8E%A1%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bfargorate-%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B4%E3%83%AC%E3%83%BC%E3%83%88-%E3%81%A8%E3%81%AF/",
-  },
-  {
-    outlet: "Billiards Days",
-    year: "2024",
-    role: "Interview / Photography",
-    title: "Fedor Gorst interview",
-    summary:
-      "Original interview and photos by K. MORI with 2024 Grand Slam winner Fedor Gorst, published by Billiards Days.",
-    url: "https://www.billiards-days.com/20241124-1/",
   },
 ];
 
