@@ -73,12 +73,12 @@ const credits = [
   },
   {
     outlet: "Billiards Days",
-    year: "2023",
-    role: "Transcript",
+    year: "2024",
+    role: "Interview / Photography",
     title: "Fedor Gorst interview",
     summary:
-      "Japanese transcript of Fedor Gorst's long-form podcast interview, credited to K. MORI.",
-    url: "https://www.billiards-days.com/%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F-interviews/%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F-%E3%83%95%E3%82%A7%E3%83%80%E3%83%BC-%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88-%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%AEthe-machine/",
+      "Original interview and photos by K. MORI with 2024 Grand Slam winner Fedor Gorst, published by Billiards Days.",
+    url: "https://www.billiards-days.com/20241124-1/",
   },
 ];
 
